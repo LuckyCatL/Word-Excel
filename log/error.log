@@ -1,0 +1,6 @@
+[2022-09-22 14:06:29,754] Word转Excel.py[line:278] ERROR [Errno 13] Permission denied: 'C:/Users/刘均朋/Desktop/qqbot/原始信息.xlsx'
+[2022-09-22 14:19:45,980] Word转Excel.py[line:283] ERROR [Errno 13] Permission denied: 'C:/Users/刘均朋/Desktop/qqbot/原始信息.xlsx'
+[2022-09-22 14:49:51,004] Word转Excel.py[line:272] ERROR list index out of range
+[2022-09-22 14:49:51,092] Word转Excel.py[line:294] ERROR [Errno 13] Permission denied: 'C:/Users/刘均朋/Desktop/qqbot/原始信息.xlsx'
+[2022-09-22 14:49:58,115] Word转Excel.py[line:272] ERROR list index out of range
+[2022-09-22 14:52:00,028] Word转Excel.py[line:272] ERROR list index out of range
